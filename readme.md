@@ -28,10 +28,10 @@ $ git clone https://github.com/r3vn/badKarma.git
 ```
 install python dependecies:
 ```bash
-# cd badKarma
-# python3 -m venv ./venv
-# python3 env/bin/activate
-# pip3 install phantomjs
+$ cd badKarma
+$ python3 -m venv ./venv
+$ python3 env/bin/activate
+$ pip3 install phantomjs
 ```
 
 ## Run 
