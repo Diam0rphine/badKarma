@@ -8,7 +8,7 @@
 	</p>
 </p>
 
-**badKarma** is an open source GUI based network reconnaissance toolkit which aims to assist penetration testers during network infrastructure assessments.
+**badKarma** is an open source GUI based network reconnaissance toolkit which aims to assist penetration testers during network infrastructure assessments. Repo is for Arch based distros
 
 ## Screenshots ( not updated ) 
 <p align="center">
